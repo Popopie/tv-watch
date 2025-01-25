@@ -17,21 +17,17 @@ CCTV-14
 CCTV-15
 CCTV-16
 CCTV-17
-CETV1
-CETV2
-CETV4
-CETV5
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
-CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8
-CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8
+CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8$!
+CETV-2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8$!
+CETV-3,http://ott.mobaibox.com/PLTV/3/224/3221227018/index.m3u8$!
+CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225783/index.m3u8$!
 
 📺央视频道(ijk播放器),#genre#
 CCTV-1 综合
 CCTV-2 财经
 CCTV-3 综艺
 CCTV-4 中文国际
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8$!
 CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8$!白名单
 CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8$!
 CCTV-7 国防军事
@@ -45,20 +41,6 @@ CCTV-14 少儿
 CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
-
-💰央视付费频道,#genre#
-文化精品
-央视台球
-风云音乐
-第一剧场
-风云剧场
-怀旧剧场
-女性时尚
-高尔夫网球
-风云足球
-电视指南
-世界地理
-兵器科技
 
 📡卫视频道,#genre#
 安徽卫视
@@ -99,6 +81,20 @@ CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/32212257
 香港卫视
 三沙卫视
 兵团卫视
+
+💰央视付费频道,#genre#
+文化精品
+央视台球
+风云音乐
+第一剧场
+风云剧场
+怀旧剧场
+女性时尚
+高尔夫网球
+风云足球
+电视指南
+世界地理
+兵器科技
 
 ☘️重庆频道,#genre#
 璧山综合
@@ -310,7 +306,6 @@ CN卡通
 爱电竞
 
 🎵音乐频道,#genre#
-CCTV-15
 风云音乐
 音乐现场
 音乐之声
@@ -424,15 +419,15 @@ J2娱乐,http://120.84.96.32:808/hls/86/index.m3u8
 电影,http://txtest-xp2p.p2p.huya.com/src/1199530067986-1199530067986-5300816003561684992-2399060259428-10057-A-0-1.xs
 
 新三国,http://121.51.14.14/txdirect.hls.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1-imgplus.m3u8
-周润发,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-周星驰,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
+周润发,http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8$!
+周星驰,http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8$!
 成龙,http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-张国荣,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8
+张国荣,http://117.148.179.177/PLTV/88888888/224/3221231790/index.m3u8$!
 郭富城,http://117.148.179.152/PLTV/88888888/224/3221231688/index.m3u8#http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528330
-吴京,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8
-刘德华,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8
-杨幂,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8
-刘亦菲,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8
+吴京,http://117.148.179.183/PLTV/88888888/224/3221231564/index.m3u8$!
+刘德华,http://117.148.179.154/PLTV/88888888/224/3221231757/index.m3u8$!
+杨幂,http://117.148.179.183/PLTV/88888888/224/3221231556/index.m3u8$!
+刘亦菲,http://117.148.179.165/PLTV/88888888/224/3221231787/index.m3u8$!
 古天乐,http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
 周润发,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
 周星驰,http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
@@ -446,7 +441,6 @@ J2娱乐,http://120.84.96.32:808/hls/86/index.m3u8
 古龙作品,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639528313
 金庸作品,http://117.148.179.132/PLTV/88888888/224/3221231477/index.m3u8
 古龙作品,http://117.148.179.160/PLTV/88888888/224/3221231657/index.m3u8
-
 神探狄仁杰,http://117.148.179.139/PLTV/88888888/224/3221231634/index.m3u8
 喜剧联盟,http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
 高分影院,http://117.148.179.182/PLTV/88888888/224/3221231699/index.m3u8
