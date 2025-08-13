@@ -3,7 +3,7 @@
 公众号【diyp】,#genre#
 DIYP,http://diyp.osfs.top/code.mp4
 
-🔥黑龙江大内网移动IPV6源⬇️⬇️⬇️,#genre#
+⬇️黑龙江大内网移动IPV6源⬇️,#genre#
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 
 
@@ -83,7 +83,7 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 睛彩篮球,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 精品体育,http://[2409:8087:1a15:10d1::38]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 聚鲨环球精选,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
-购物,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
+古装剧场,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 优购物,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
 风尚购物,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
 
@@ -104,9 +104,7 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 鹤岗新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 
 
-🔥上海大内网移动IPV6源⬇️⬇️⬇️,#genre#
-
-🏵️4K,#genre#
+⬇️上海大内网移动IPV6源⬇️,#genre#
 至臻世界4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225687/1.m3u8
 咪咕视频4K,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226080/1.m3u8
 
