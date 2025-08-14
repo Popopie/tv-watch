@@ -31,7 +31,7 @@ CCTV-16奥林匹克,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/P
 CCTV-17农业农村,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CETV1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 
-🍋‍🟩卫视频道,#genre#
+🍀卫视频道,#genre#
 重庆卫视,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 江苏卫视,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 浙江卫视,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
@@ -72,7 +72,7 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 哈哈炫动,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8
 炫舞未来,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8
 
-🌈精品剧场,#genre#
+🍀精品剧场,#genre#
 黑莓电影,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 精品大剧,http://[2409:8087:1a15:10d1::39]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8
 家庭剧场,http://[2409:8087:1a15:10d1::36]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8
@@ -87,7 +87,7 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 优购物,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225757/index.m3u8
 风尚购物,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225708/index.m3u8
 
-🍋️地方频道,#genre#
+🍀地方频道,#genre#
 黑龙江农业科教,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 黑龙江少儿,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226371/index.m3u8
 黑龙江影视,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
@@ -256,3 +256,4 @@ CGTN,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226016/1.m3u8
 百视通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226102/1.m3u8
 百视通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226123/1.m3u8
 咪视界40,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226125/1.m3u8
+
